@@ -32,7 +32,7 @@ The assignment was read more than once and the slides were also checked to under
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
+The multithreading is used in many real applications for example , in games , it is possible to play and hear sounds at the same time  this means different tasks are running together or mobile apps also use threads to run things in the background and browsers open many tabs at the same time using threads and In this assignment processes shared the CPU in a similar way threads help programs run smoothly and handle more than one task.
 
 ---
 
