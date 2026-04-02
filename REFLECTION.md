@@ -36,22 +36,11 @@ The multithreading is used in many real applications for example , in games , it
 
 ---
 
-## Additional Reflections (Optional)
-
-### What would you like to learn more about?
-
-[Any topics related to threading, concurrency, or operating systems that you're curious about?]
-
----
-
 ### How confident do you feel about multithreading concepts now?
 
-[Rate yourself and explain: Beginner / Intermediate / Confident]
-
-[Explain your rating - what do you understand well? What needs more practice?]
-
+Beginner 
+The main idea of threads is clear and how they run in the program is understood but more practice is still needed for me especially with advanced topics.
 ---
 
 ### Feedback on the assignment
-
-[Any comments about the assignment? Was it helpful? Too easy/hard? Suggestions for improvement?]
+The assignment was helpful and gave a better understanding of multithreading and It was a letel bit difficult at the beginning but it became easier with time 
