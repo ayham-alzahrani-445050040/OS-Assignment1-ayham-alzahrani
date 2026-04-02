@@ -32,16 +32,23 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
 
-**Details**: 
+
+### Entry 1 - [on Mar 29 - 9pm ]
+**What I did**: 
+I created a GitHub account and connected it with VS Code I also changed the student ID in the code and started understanding the assignment.
+
+**Details**:
+I read the assignment instructions and tried to understand the idea of the project I looked at the code and saw how the program works in general I also updated the student ID in the code to my own ID.
 
 **Challenges**: 
+it was my first time using GitHub and VS Code so I was a bit confused at the beginning I didn’t know how to connect them or use them .
 
 **Solution**: 
+I asked one of my friends for help and he explained some parts to me I also followed the explanation in the assignment, and that helped me understand better.
 
 **Time spent**: 
+About 2 hours
 
 ---
 
@@ -50,12 +57,11 @@ Document your development process as you work on the assignment. Add entries sho
 
 **Details**: 
 
-**Challenges**: 
+**Challenges**:
 
 **Solution**: 
 
 **Time spent**: 
-
 ---
 
 ### Entry 3 - [Date and Time]
