@@ -9,7 +9,8 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
+ I learned what multithreading is and how multiple threads can be run at the same time and I understood how to create threads and how they can work together inside one program and how threads don’t always run in the same order and also learned that sharing data between threads can cause problems like race conditions , in the end  I have a better idea of how multithreading works and why it’s useful.
+
 
 ---
 
