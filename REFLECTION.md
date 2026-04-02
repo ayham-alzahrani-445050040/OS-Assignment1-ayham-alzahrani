@@ -24,7 +24,7 @@ The most difficult part was understanding the code at the beginning , it was not
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
+The assignment was read more than once and the slides were also checked to understand the concepts better the code was divided into smaller parts to make it easier and asked a friend for some help to explain some parts and also AI was used for simple hints when needed testing the code step by step helped in understanding it.
 
 ---
 
