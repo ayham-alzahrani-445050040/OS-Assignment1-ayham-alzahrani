@@ -109,16 +109,21 @@ around 2 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [on apr2 - 2 am]
+**What I did**:
+after anthour break I added waiting time for each process.
 
 **Details**: 
+I added two variables in the process class one for waiting time and one to store the last time the process entered the queue , I used System.currentTimeMillis() to get the time , I used LinkedList instead of ArrayList because the original code was already using it
 
 **Challenges**: 
+I didn’t understand how to calculate waiting time and where to put the code.
 
 **Solution**: 
+I read the assignment and the slides again I followed the structure of the given code and did not change it much and  added the needed variables step by step and tested the program until it worked
 
 **Time spent**: 
+about 2 hours
 
 ---
 
