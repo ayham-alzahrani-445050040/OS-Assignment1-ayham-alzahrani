@@ -57,22 +57,18 @@ Example from my output:
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [Game]
 
 **Description**: 
-[Describe the real-world scenario or application]
-
+ In a game, you can play and hear sound at the same time.  
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
-
-### Example 2: [Name of application/scenario]
+each task gets a short time to run this keeps the game smooth and the sound clear
+### Example 2: [Web Browser]
 
 **Description**: 
-[Describe the real-world scenario or application]
-
+ A browser can open many tabs at the same time without any delay
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
-
+ every tab gets time to run this keeps all tabs working and not slow this happens so fast you won't even notice.
 ---
 
 ## Summary
