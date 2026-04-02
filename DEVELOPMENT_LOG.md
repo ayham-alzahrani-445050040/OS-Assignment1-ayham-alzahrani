@@ -142,10 +142,10 @@ about 2 hours
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [9 hours]
 
-**Most challenging part**: 
+**Most challenging part**: understanding the cod and how each part works together
 
-**Most interesting learning**: 
+**Most interesting learning**: learning how Round Robin scheduling works and how processes share the CPU
 
-**What I would do differently next time**: 
+**What I would do differently next time**: I would start earlier and try to understand the code faster from the beginning.
